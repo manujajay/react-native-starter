@@ -13,7 +13,7 @@ To set up and run the app, you need to have Node.js, npm, and Expo CLI installed
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/MySimpleApp.git
+    git clone https://github.com/manujajay/MySimpleApp.git
     ```
 
 2. Navigate to the project directory:
