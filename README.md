@@ -40,7 +40,3 @@ This will open a new browser window with a QR code. You can scan this QR code us
 
 - Display a welcome message.
 - Button to trigger an alert.
-
-## License
-
-MIT
